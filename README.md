@@ -1,21 +1,12 @@
 ### Hey There ❄️
 
+Everyone calls me Pako, so I go by this name 😇
 
-Everyone calls me Pako, so I go by this name
+Jack of all trades, master of some 😄
 
-Jack of all trades, master of some
-
-Action causes React(JS)ion
-
-
-React Dev ❄️
-
-Oryve Founder ⚡
-
-Economics Student 📚
+Action causes React(JS)ion ❄️
 
 Aspiring to be someone
-
 
 📫 Reach me:
 
