@@ -1,7 +1,5 @@
 ### Hey There ❄️
 
-Everyone calls me Pako, so I go by this name 😇
-
 Jack of all trades, master of some 😄
 
 Action causes React(JS)ion ❄️
