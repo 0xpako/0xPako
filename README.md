@@ -1,13 +1,6 @@
 ### Hey There ❄️
 
 Jack of all trades, master of some 😄
-
-Action causes React(JS)ion ❄️
-
-Aspiring to be someone
-
-📫 Reach me:
-.
 <!--
 **0xpako/0xpako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
