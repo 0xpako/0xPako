@@ -1,6 +1,8 @@
 ### Hey There ❄️
 
 Jack of all trades, master of some 😄
+
+🤔⚡
 <!--
 **0xpako/0xpako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
