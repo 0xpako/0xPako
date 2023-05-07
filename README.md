@@ -4,9 +4,16 @@ Jack of all trades, master of some 😄
 
 🤔🤔
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=0xpako&show_icons=true&theme=default#gh-light-mode-only)]
+### GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&hide=css)]
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MangaD&show_icons=true&theme=github_dark)
+-->
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&hide=css&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
+</p>
 <!--
 **0xpako/0xpako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
