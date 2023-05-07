@@ -4,11 +4,8 @@ Jack of all trades, master of some 😄
 
 🤔🤔
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
-</p>
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=0xpako&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **0xpako/0xpako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
