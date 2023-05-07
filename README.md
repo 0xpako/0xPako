@@ -2,7 +2,7 @@
 
 Jack of all trades, master of some 😄
 
-🤔⚡⚡ sheesh
+🤔
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
