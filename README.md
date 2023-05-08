@@ -9,7 +9,7 @@ Jack of all trades, master of some 😄
 <p><img
   src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/qPjSsLD8_4xfavi.png"
   alt="MP Logo"
-  style="display: block; margin: 0 auto; width: 11%; height: 11%">
+  style="display: inline; width: 11%; height: 11%">
 Lets See
 </p>
 
