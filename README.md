@@ -12,7 +12,7 @@ Jack of all trades, master of some 😄
   style="
       display: flex;
       justify-content: center;
-      width: 20%; height: 20%">
+      width: 13%; height: 13%">
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MangaD&show_icons=true&theme=github_dark)
