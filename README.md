@@ -6,14 +6,13 @@ Jack of all trades, master of some 😄
 
 ### GitHub Statistics
 
-<p>See
+<p>
 <img
   src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/qPjSsLD8_4xfavi.png"
   alt="MP Logo"
   style="display: inline; width: 11%; height: 11%">
-Lets See
 </p>
-
+Lets see
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MangaD&show_icons=true&theme=github_dark)
 -->
