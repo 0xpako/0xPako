@@ -9,10 +9,7 @@ Jack of all trades, master of some 😄
 <img
   src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/qPjSsLD8_4xfavi.png"
   alt="MP Logo"
-  style="
-      display: flex;
-      justify-content: center;
-      width: 13%; height: 13%">
+  style="display: block; margin: 0 auto; width: 13%; height: 13%">
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MangaD&show_icons=true&theme=github_dark)
