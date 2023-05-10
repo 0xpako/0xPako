@@ -21,7 +21,8 @@ Lets see
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
 </p>
-
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm 0xpako</h1>
 <h3 align="center">A passionate frontend developer from Nowhere</h3>
 
@@ -59,10 +60,6 @@ Lets see
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/0xpako"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xpako" /></a></p><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xpako&show_icons=true&theme=dark&locale=en&layout=compact" alt="0xpako" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xpako&show_icons=true&theme=dark&locale=en" alt="0xpako" /></p>
 
 <!--
 **0xpako/0xpako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
