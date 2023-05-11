@@ -21,7 +21,7 @@ Lets see
 
 
 
-
+<br>
 <h1 align="center">Hi 👋, I'm 0xpako</h1>
 <h3 align="center">A passionate frontend developer from Nowhere</h3>
 
@@ -45,24 +45,19 @@ Lets see
 
 - ⚡ Fun factx **x**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xpako" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paczkowski" height="30" width="40" /></a>
+<a href="https://instagram.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xpako" height="30" width="40" /></a>
+<a href="https://medium.com/@0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0xpako" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="x" height="30" width="40" /></a>
-<a href="https://dev.to/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="x" height="30" width="40" /></a>
 <a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xpako" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paczkowski" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="x" height="30" width="40" /></a>
-<a href="https://codesandbox.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="x" height="30" width="40" /></a>
-<a href="https://instagram.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xpako" height="30" width="40" /></a>
-<a href="https://dribbble.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="x" height="30" width="40" /></a>
-<a href="https://medium.com/@0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0xpako" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="0xpako" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="x" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="x" height="30" width="40" /></a>
+<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xpako" height="30" width="40" /></a>
+<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xpako" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -84,6 +79,15 @@ Resources to be used later probably :D
 
 <p align="left"> <a href="https://twitter.com/0xpako" target="blank"><img src="https://img.shields.io/twitter/follow/0xpako?logo=twitter&style=for-the-badge" alt="0xpako" /></a> </p>
 
+
+<a href="https://codepen.io/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="x" height="30" width="40" /></a>
+<a href="https://dev.to/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="x" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="x" height="30" width="40" /></a>
+<a href="https://codesandbox.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="x" height="30" width="40" /></a>
+<a href="https://dribbble.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="x" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="x" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="x" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="0xpako" height="30" width="40" /></a>
 
 
 -->
