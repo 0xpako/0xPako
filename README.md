@@ -55,9 +55,9 @@ Lets see
 
 <h3 align="left">Hire me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/freelancercom.png" alt="0xpako" height="40" width="40" /></a>
-<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/fiverrcom.png" alt="0xpako" height="40" width="40" /></a>
-<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/upworkcom.png" alt="0xpako" height="40" width="40" /></a>
+<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icfreelancer.png" alt="0xpako" height="40" width="40" /></a>
+<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icfiverr.png" alt="0xpako" height="40" width="40" /></a>
+<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icupwork.png" alt="0xpako" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
