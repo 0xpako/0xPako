@@ -55,7 +55,7 @@ Lets see
 
 <h3 align="left">Hire me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/freelancercom.jpg" alt="0xpako" height="40" width="40" /></a>
+<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/freelancercom.png" alt="0xpako" height="40" width="40" /></a>
 <a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/fiverr.png" alt="0xpako" height="40" width="40" /></a>
 <a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/upwork.png" alt="0xpako" height="40" width="40" /></a>
 </p>
