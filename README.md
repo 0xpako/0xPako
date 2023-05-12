@@ -20,6 +20,19 @@ Lets see
 </p>
 
 
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  alt="MP Logo"
+  style="display: inline; width: 40px; height: 40px">
+<img
+  src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/lessthan.png"
+  alt="MP Logo"
+  style="display: inline; width: 40px; height: 40px">
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  alt="MP Logo"
+  style="display: inline; width: 40px; height: 40px">
+
 
 <br>
 <h1 align="center">Hi 👋, I'm 0xpako</h1>
