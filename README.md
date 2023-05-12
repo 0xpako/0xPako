@@ -20,20 +20,6 @@ Lets see
 </p>
 
 
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="MP Logo"
-  style="display: inline; width: 40px; height: 40px">
-<img
-  src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/lessthan.png"
-  alt="MP Logo"
-  style="display: inline; width: 40px; height: 40px">
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-  alt="MP Logo"
-  style="display: inline; width: 40px; height: 40px">
-
-
 <br>
 <h1 align="center">Hi 👋, I'm 0xpako</h1>
 <h3 align="center">A passionate frontend developer from Nowhere</h3>
@@ -101,6 +87,19 @@ Resources to be used later probably :D
 <a href="https://www.codechef.com/users/x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="x" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="x" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="0xpako" height="30" width="40" /></a>
+
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  alt="MP Logo"
+  style="display: inline; width: 40px; height: 40px">
+<img
+  src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/lessthan.png"
+  alt="MP Logo"
+  style="display: inline; width: 40px; height: 40px">
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  alt="MP Logo"
+  style="display: inline; width: 40px; height: 40px">
 
 
 -->
