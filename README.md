@@ -53,10 +53,10 @@ Lets see
 
 <h3 align="left">Hire me:</h3>
 <p align="left">
-<a href="https://www.freelancer.com/u/mat0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icfreelancer.png" alt="0xpako" height="40" width="40" /></a>
-<a href="https://www.fiverr.com/mat0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icfiverr.png" alt="0xpako" height="40" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~0120b0c916c2a72d38" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icupwork.png" alt="0xpako" height="40" width="40" /></a>
-<a href="https://raw.githubusercontent.com/0xpako/0xpako/main/images/Bitcoin.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icupwork.png" alt="0xpako" height="40" width="40" /></a>
+<a href="https://www.freelancer.com/u/mat0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icfreelancer.png" alt="freelancer" height="40" width="40" /></a>
+<a href="https://www.fiverr.com/mat0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icfiverr.png" alt="fiverr" height="40" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0120b0c916c2a72d38" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icupwork.png" alt="upwork" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/Bitcoin.png" alt="crypto" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
