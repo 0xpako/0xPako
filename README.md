@@ -67,11 +67,6 @@ Lets see
 <p><a href="https://www.buymeacoffee.com/0xpako"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="0xpako" /></a><a href="#"> <img align="left" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/DonateBet.png" height="50" width="185" alt="0xpako" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xpako&show_icons=true&theme=dark&locale=en&layout=compact" alt="0xpako" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xpako&show_icons=true&theme=dark&locale=en" alt="0xpako" /></p>
-
-
 
 <!--
 Resources to be used later probably :D
