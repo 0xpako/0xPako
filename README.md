@@ -48,8 +48,8 @@ Lets see
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/profile.png" alt="0xpako" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/LinkedIn_logo_initials.png.webp" alt="paczkowski" height="30" width="40" /></a>
-<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/Twitter-social-icons-rounded-square-blue.png" alt="0xpako" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/LinkedIn_logo_initials.png.webp" alt="paczkowski" height="40" width="40" /></a>
+<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/Twitter-social-icons-rounded-square-blue.png" alt="0xpako" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Hire me:</h3>
