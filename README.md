@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm 0xpako</h1>
-<h2 align="center">A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere</h2>
-<p align="center">
+<h2 align="left">A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere</h2>
+<p align="left">
 <img
   align="center"
   src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/qPjSsLD8_4xfavi.png"
   alt="MP Logo"
-  style="width: 11%; height: 11%">
+  style="width: 60px; height: 60px">
 </p>
 Lets see
 
