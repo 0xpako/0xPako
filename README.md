@@ -50,7 +50,6 @@ Lets see
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/profile.png" alt="0xpako" height="40" width="40" /></a>
 <a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xpako" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paczkowski" height="30" width="40" /></a>
-<a href="https://instagram.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xpako" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Hire me:</h3>
