@@ -1,7 +1,5 @@
-<p align="center">
 ### Hi 👋, I'm 0xpako
 ## A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere
-</p>
 
 <p align="center">
 <img
