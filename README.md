@@ -6,7 +6,7 @@ Jack of all trades, master of some 😄
 
 ### GitHub Statistics
 
-<p>
+<p align="center">
 <img
   align="center"
   src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/qPjSsLD8_4xfavi.png"
