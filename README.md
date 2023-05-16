@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm 0xpako</h1>
-<h2 align="left">A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere</h2>
+## A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere
 <p align="left">
 <img
   align="center"
