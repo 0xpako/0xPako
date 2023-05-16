@@ -12,13 +12,6 @@ Lets see
 
 🤔🤔⭐
 
-### GitHub Statistics
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
-</p>
-
 
 <br>
 
@@ -63,7 +56,12 @@ Lets see
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/0xpako"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="0xpako" /></a><a href="#"> <img align="left" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/DonateBet.png" height="50" width="185" alt="0xpako" /></a></p><br><br>
 
+### GitHub Statistics
 
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
+</p>
 
 <!--
 Resources to be used later probably :D
