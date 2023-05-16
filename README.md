@@ -11,7 +11,7 @@ Jack of all trades, master of some 😄
   align="center"
   src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/qPjSsLD8_4xfavi.png"
   alt="MP Logo"
-  style="display: inline; width: 11%; height: 11%">
+  style="width: 11%; height: 11%">
 </p>
 Lets see
 
