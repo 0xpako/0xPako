@@ -1,11 +1,5 @@
 ## A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere
-<p align="left">
-<img
-  align="center"
-  src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/qPjSsLD8_4xfavi.png"
-  alt="MP Logo"
-  style="width: 60px; height: 60px">
-</p>
+
 Lets see
 
 🤔🤔⭐
@@ -92,5 +86,12 @@ Resources to be used later probably :D
   alt="MP Logo"
   style="display: inline; width: 40px; height: 40px">
 
+<p align="left">
+<img
+  align="center"
+  src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/qPjSsLD8_4xfavi.png"
+  alt="MP Logo"
+  style="width: 60px; height: 60px">
+</p>
 
 -->
