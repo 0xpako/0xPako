@@ -1,10 +1,5 @@
-### I'm still working on this file, it's not formatted yet!
-
-Jack of all trades, master of some 😄
-
-🤔🤔⭐
-
-### GitHub Statistics
+<h2 align="center">Hi 👋, I'm 0xpako</h1>
+<h3 align="center">A passionate frontend developer from Nowhere</h3>
 
 <p align="center">
 <img
@@ -15,6 +10,10 @@ Jack of all trades, master of some 😄
 </p>
 Lets see
 
+🤔🤔⭐
+
+### GitHub Statistics
+
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
@@ -22,8 +21,6 @@ Lets see
 
 
 <br>
-<h1 align="center">Hi 👋, I'm 0xpako</h1>
-<h3 align="center">A passionate frontend developer from Nowhere</h3>
 
 - 🔭 I’m currently working onx [x](xx)
 
