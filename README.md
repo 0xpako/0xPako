@@ -1,6 +1,5 @@
-### Hi 👋, I'm 0xpako
-## A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere
-
+<h1>Hi 👋, I'm 0xpako</h1>
+<h2>A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere</h2>
 <p align="center">
 <img
   align="center"
