@@ -1,3 +1,37 @@
+# ⭐ 0xpako - Mateusz Paczkowski
+🌐 Polish Web Developer & 🏀 Your Basketball Bro
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/profile3.png" alt="0xpako" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/LinkedIn_logo_initials.png.webp" alt="paczkowski" height="40" width="40" /></a>
+<a href="https://linktr.ee/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/linktreepic2.png" alt="0xpako" height="40" width="40" /></a>
+</p>
+
+
+## Selected Projects
+
+Most of my open source projects are on [GitLab](https://gitlab.com/MangaD).
+
+**Personal:**
+
+- [HF Workshop](https://gitlab.com/MangaD/hf-workshop/) & [libswf](https://gitlab.com/MangaD/libswf)
+- [HF Discord Bot](https://gitlab.com/MangaD/hf-discord-bot)
+- [Personal website](https://davidg.cc)
+- [C++11 Socket Library](https://bitbucket.org/MangaD/libsocket)
+
+**Academic:**
+
+- [M.Sc. Thesis: A Reference Implementation of ECMAScript Built-in Objects](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/dissertacao/1128253548922798)
+- [Smartphone as a security token](https://github.com/MangaD/SIRS-Project)
+- [P2Photo](https://github.com/MangaD/P2Photo)
+
+**Professional:**
+
+- [The Rich Group](https://gitlab.com/insomnium-eye/insomnium-eye.gitlab.io)
+
+---
+
 ## A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere
 
 Lets see
@@ -26,13 +60,6 @@ Lets see
 - 📄 Know about my experiencesx [x](x)
 
 - ⚡ Fun factx **x**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/profile3.png" alt="0xpako" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/LinkedIn_logo_initials.png.webp" alt="paczkowski" height="40" width="40" /></a>
-<a href="https://linktr.ee/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/linktreepic2.png" alt="0xpako" height="40" width="40" /></a>
-</p>
 
 <h3 align="left">Hire me:</h3>
 <p align="left">
