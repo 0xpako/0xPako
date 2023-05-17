@@ -2,9 +2,7 @@
 🌐 Polish Web Developer
 🏀 Your Basketball Bro
 
-## Selected Projects
-
-Most of my open source projects are on [GitLab](https://gitlab.com/MangaD).
+Selected Links & Projects:
 
 **Personal:**
 
