@@ -1,6 +1,6 @@
 # ⭐ 0xpako - Mateusz Paczkowski
 🌐 Polish Web Developer
-🏀 Your Basketball Bro
+🏀 Your Basketball Homeboy
 
 🔶 **Selected Links:**
 
