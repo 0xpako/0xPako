@@ -2,12 +2,11 @@
 🌐 Polish Web Developer
 🏀 Your Basketball Bro
 
-**Personal:**
+**Selected Links:**
 
-- [HF Workshop](https://gitlab.com/MangaD/hf-workshop/) & [libswf](https://gitlab.com/MangaD/libswf)
-- [HF Discord Bot](https://gitlab.com/MangaD/hf-discord-bot)
 - [Personal website](https://davidg.cc)
-- [C++11 Socket Library](https://bitbucket.org/MangaD/libsocket)
+- [Personal website](https://davidg.cc)
+- [Personal website](https://davidg.cc)
 
 ---
 
