@@ -29,9 +29,9 @@ Lets see
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/profile2.png" alt="0xpako" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/profile3.png" alt="0xpako" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/LinkedIn_logo_initials.png.webp" alt="paczkowski" height="40" width="40" /></a>
-<a href="https://linktr.ee/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/linktreepic.png" alt="0xpako" height="40" width="40" /></a>
+<a href="https://linktr.ee/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/linktreepic2.png" alt="0xpako" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Hire me:</h3>
