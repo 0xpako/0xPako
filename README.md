@@ -2,7 +2,7 @@
 🌐 Polish Web Developer
 🏀 Your Basketball Bro
 
-**Selected Links:**
+🔶 **Selected Links:**
 
 - [Personal website](https://davidg.cc)
 - [Personal website](https://davidg.cc)
