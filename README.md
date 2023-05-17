@@ -32,7 +32,6 @@ Lets see
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/profile2.png" alt="0xpako" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/LinkedIn_logo_initials.png.webp" alt="paczkowski" height="40" width="40" /></a>
 <a href="https://linktr.ee/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/linktreepic.png" alt="0xpako" height="40" width="40" /></a>
-<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/Twitter-social-icons-rounded-square-blue.png" alt="0xpako" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Hire me:</h3>
@@ -98,5 +97,6 @@ Resources to be used later probably :D
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
+<a href="https://twitter.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/Twitter-social-icons-rounded-square-blue.png" alt="0xpako" height="40" width="40" /></a>
 
 -->
