@@ -8,6 +8,11 @@
 - [Personal website](https://davidg.cc)
 - [Personal website](https://davidg.cc)
 
+⚡ **Contact Info:**
+
+- 📫 E-mail: mateusz@0xpako.com
+- 💬 Telegram: @Mateusz_React
+
 ---
 
 ## A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere
