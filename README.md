@@ -2,13 +2,13 @@
 🌐 Polish Web Developer
 🏀 Your Basketball Homeboy
 
-🔶 **Selected Links:**
+🟢 **Selected Links:**
 
 - [Personal website](https://davidg.cc)
 - [Personal website](https://davidg.cc)
 - [Personal website](https://davidg.cc)
 
-⚡ **Contact Info:**
+Ⓜ️ **Contact Info:**
 
 - 📫 E-mail: mateusz@0xpako.com
 - 💬 Telegram: @Mateusz_React
