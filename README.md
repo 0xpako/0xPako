@@ -11,7 +11,7 @@
 🟣 **Contact Info:**
 
 - 📫 E-mail: mateusz@0xpako.com
-- 💬 Telegram: @Mateusz_React
+- 💬 Telegram: [@Mateusz_React](https://t.me/Mateusz_React)
 
 ---
 
