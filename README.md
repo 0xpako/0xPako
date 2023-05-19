@@ -33,9 +33,6 @@
 <h4 align="left">Support:</h4>
 <p><a href="https://www.buymeacoffee.com/0xpako"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="0xpako" /></a> <a href="#"> <img align="left" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/githubsponsor.svg" height="40" width="160" alt="0xpako" /></a> <a href="#"> <img align="left" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/DonateBet.png" height="40" width="148" alt="0xpako" /></a></p><br><br>
 
-<h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/0xpako"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="0xpako" /></a><a href="https://ko-fi.com/0xpako"> <img align="left" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/githubsponsor.svg" height="40" width="160" alt="0xpako" /></a><a href="https://ko-fi.com/0xpako"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="0xpako" /></a></p><br><br>
-
 ### GitHub Statistics
 
 <p align="left">
