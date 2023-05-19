@@ -38,6 +38,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
 </p>
 
+[![0xpako's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xpako)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 Resources to be used later probably :D
 
