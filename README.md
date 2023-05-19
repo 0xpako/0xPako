@@ -12,8 +12,6 @@
 - 📫 E-mail: mateusz@0xpako.com
 - 💬 Telegram: [@Mateusz_React](https://t.me/Mateusz_React)
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/profile3.png" alt="0xpako" height="40" width="40" /></a>
