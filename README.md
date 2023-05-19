@@ -4,9 +4,8 @@
 
 🟢 **Selected Links:**
 
-- [Personal website](https://davidg.cc)
-- [Personal website](https://davidg.cc)
-- [Personal website](https://davidg.cc)
+- [Personal website](https://0xpako.com/)
+- [Emage Framework](https://emage.0xpako.com/)
 
 🟣 **Contact Info:**
 
@@ -14,35 +13,6 @@
 - 💬 Telegram: [@Mateusz_React](https://t.me/Mateusz_React)
 
 ---
-
-## A passionate frontend developer <a href="Crypto-Pay---0xpako.html#carousel_4338"><b>contact me</b></a>from Nowhere
-
-Lets see
-
-🤔🤔⭐
-
-
-<br>
-
-- 🔭 I’m currently working onx [x](xx)
-
-- 🌱 I’m currently learningx **x**
-
-- 👯 I’m looking to collaborate onx [x](x)
-
-- 🤝 I’m looking for help withx [x](x)
-
-- 👨‍💻 All of my projects are available at [0xpako.com](0xpako.com)
-
-- 📝 I regularly write articles onx [x](x)
-
-- 💬 Ask me aboutx **x**
-
-- 📫 How to reach me **mateusz@0xpako.com**
-
-- 📄 Know about my experiencesx [x](x)
-
-- ⚡ Fun factx **x**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
