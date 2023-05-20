@@ -4,7 +4,7 @@
 
 🟢 **Selected Links:**
 
-- [Personal website](https://0xpako.com/)
+- [Personal Website](https://0xpako.com/)
 - [Emage Framework](https://emage.0xpako.com/)
 
 🟣 **Contact Info:**
