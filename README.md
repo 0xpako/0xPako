@@ -10,7 +10,7 @@
 🟣 **Contact Info:**
 
 - 📫 E-mail: mateusz@0xpako.com
-- 💬 Telegram: [@Mateusz_React](https://t.me/Mateusz_React)
+- 💬 Telegram: [@Mateusz_Angular](https://t.me/Mateusz_Angular)
 
 <h4 align="left">📧 Connect with me:</h4>
 <p align="left">
