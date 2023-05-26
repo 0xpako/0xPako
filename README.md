@@ -1,6 +1,6 @@
 # ⭐ 0xpako - Mateusz Paczkowski
 🌐 Polish Web Developer
-🎨 UX/UI Designer
+🎨 UX/UI
 🏀 Your Basketball Homeboy
 
 🟢 **Selected Links:**
