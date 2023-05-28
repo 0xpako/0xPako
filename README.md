@@ -5,7 +5,7 @@
 🟢 **Selected Links:**
 
 - [Personal Website](https://0xpako.com/)
-- [Emage Framework](https://emage.0xpako.com/)
+- [TyseraTS Framework](https://github.com/0xpako/TyseraTS)
 
 🟣 **Contact Info:**
 
