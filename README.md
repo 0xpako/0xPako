@@ -15,6 +15,7 @@
 <h4 align="left">📧 Connect with me:</h4>
 <p align="left">
 <a href="https://0xpako.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/pop.png" alt="portfolio" height="35" width="35" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/googledev.png" alt="googledev" height="35" width="35" /></a>
 <a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/LinkedIn_logo_initials.png.webp" alt="paczkowski" height="35" width="35" /></a>
 <a href="https://linktr.ee/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/linktreepic2.png" alt="linktree" height="35" width="35" /></a>
 </p>
