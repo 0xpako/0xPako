@@ -35,6 +35,8 @@
 <h4 align="left">🧡 Support:</h4>
 <p><a href="https://www.buymeacoffee.com/0xpako"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="coffee" /></a> <a href="https://github.com/sponsors/0xpako/"> <img src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/githubsponsor.svg" height="40" width="160" alt="github-sponsor" /></a> <a href="https://crypto-0xpako.netlify.app/"> <img src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/DonateBet.png" height="40" width="148" alt="crypto" /></a></p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpako&theme=github_dark&show_icons=true&hide_border=true&layout=compact&langs_count=6" alt="Top languages"/>
+
 <!--
 Resources to be used later probably :D
 
