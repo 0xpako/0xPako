@@ -1,6 +1,6 @@
 # ⭐ 0xpako - Mateusz Paczkowski
 🌐 Polish Web Developer
-🛍️ Ecommerce Entrepreneur
+🛍️ Ecommerce Shop Owner
 🏀 Your Basketball Homeboy
 
 🟢 **Selected Links:**
