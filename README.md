@@ -25,7 +25,6 @@
 <p align="left">
 <a href="https://www.freelancer.com/u/mat0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icfreelancer.png" alt="freelancer" height="35" width="35" /></a>
 <a href="https://www.fiverr.com/mat0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icfiverr.png" alt="fiverr" height="35" width="35" /></a>
-<a href="https://www.upwork.com/freelancers/~0120b0c916c2a72d38" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icupwork.png" alt="upwork" height="35" width="35" /></a>
 <a href="https://bitcoin.0xpako.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icBitcoin.png" alt="crypto" height="35" width="35" /></a>
 </p>
 
