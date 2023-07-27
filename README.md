@@ -10,7 +10,7 @@
 🟣 **Contact Info:**
 
 - 📫 E-mail: mateusz@0xpako.com
-- 💬 Telegram: [@Mateusz_AR](https://t.me/Mateusz_AR)
+- 💬 Telegram: [@BitQuartz](https://t.me/BitQuartz)
 
 <h4 align="left">📧 Connect with me:</h4>
 <p align="left">
