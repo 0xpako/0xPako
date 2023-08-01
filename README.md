@@ -10,7 +10,7 @@
 🟣 **Contact Info:**
 
 - 📫 E-mail: mateusz@0xpako.com
-- 💬 Telegram: [@BitQuartz](https://t.me/BitQuartz)
+- 💬 Telegram: [@designpako](https://t.me/designpako)
 
 <h4 align="left">📧 Connect with me:</h4>
 <p align="left">
