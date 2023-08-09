@@ -9,8 +9,8 @@
 
 🟣 **Contact Info:**
 
-- 📫 E-mail: mateusz@0xpako.com
-- 💬 Telegram: [@designpako](https://t.me/designpako)
+- 📫 E-mail: contact@uxpako.cc
+- 💬 Telegram: [@uxpako](https://t.me/uxpako)
 
 <h4 align="left">📧 Connect with me:</h4>
 <p align="left">
