@@ -1,4 +1,4 @@
-# ⭐ 0xpako - Mateusz Paczkowski
+# ⭐ Mateusz Paczkowski
 🌐 Polish Designer & Web Developer
 🏀 Your Basketball Homeboy
 
