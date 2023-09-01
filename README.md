@@ -2,16 +2,6 @@
 🌐 Polish Designer & Web Developer
 🏀 Your Basketball Homeboy
 
-🔵 **Selected Links:**
-
-- [Personal Website](https://0xpako.com/)
-- [TyseraTS Framework](https://github.com/0xpako/TyseraTS)
-
-🟣 **Contact Info:**
-
-- 📫 E-mail: contact@uxpako.cc
-- 💬 Telegram: [@uxpako](https://t.me/uxpako)
-
 <h4 align="left">📧 Connect with me:</h4>
 <p align="left">
 <a href="https://0xpako.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/pop3.png" alt="portfolio" height="35" width="35" /></a>
@@ -36,6 +26,18 @@
 </p>
 
 <!--
+
+
+🔵 **Selected Links:**
+
+- [Personal Website](https://0xpako.com/)
+- [TyseraTS Framework](https://github.com/0xpako/TyseraTS)
+
+🟣 **Contact Info:**
+
+- 📫 E-mail: contact@uxpako.cc
+- 💬 Telegram: [@uxpako](https://t.me/uxpako)
+
 Resources to be used later probably :D
 
 <h4 align="left">Most Used Languages (Github):</h4>
