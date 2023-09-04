@@ -1,6 +1,5 @@
 # ⭐ Mateusz Paczkowski
 🌐 Polish Designer, Web Developer & Artist
-
 🏀 Your Basketball Homeboy
 
 <h4 align="left">📧 Connect with me:</h4>
