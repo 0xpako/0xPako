@@ -1,5 +1,5 @@
 # ⭐ Mateusz Paczkowski
-🌐 Polish Designer, Web Developer & Artist
+🌐 Designer, Web Developer & Artist
 
 <h4 align="left">📧 Connect with me:</h4>
 <p align="left">
