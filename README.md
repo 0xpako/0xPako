@@ -19,7 +19,7 @@
 </p>
 
 <h4 align="left">💙 Support:</h4>
-<p> <a href="https://bitcoin.0xpako.com/"> <img src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/DonateBet.png" height="40" width="148" alt="crypto" /></a> <img src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/githubsponsor.svg" height="40" width="160" alt="github-sponsor" /></a> </p>
+<p> <a href="https://bitcoin.0xpako.com/"> <img src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/DonateBet.png" height="40" width="148" alt="crypto" /></a> <a href="https://github.com/sponsors/0xpako"> <img src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/githubsponsor.svg" height="40" width="160" alt="github-sponsor" /></a> </p>
 
 <!--
 
