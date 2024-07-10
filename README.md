@@ -7,8 +7,8 @@
 <a href="https://linkedin.com/in/paczkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/LinkedIn_logo_initials.png.webp" alt="paczkowski" height="35" width="35" /></a>
 <a href="https://www.behance.net/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/behance-icon-png-4.png" alt="0xpako" height="35" width="35" /></a>
 <a href="https://www.deviantart.com/0xpako" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/3992641.png" alt="deviantart" width="35" height="35"/> </a>
-<a href="https://instagram.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/d621b97c60a1d96654bc27f460ea568be847288c/images/Instagram_logo_2016.svg" alt="0xpako" height="35" width="35" /></a>
 <a href="https://linktr.ee/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/linktreepic2.png" alt="linktree" height="35" width="35" /></a>
+<a href="https://instagram.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/d621b97c60a1d96654bc27f460ea568be847288c/images/Instagram_logo_2016.svg" alt="0xpako" height="35" width="35" /></a>
 </p>
 
 <h4 align="left">💵 Hire me:</h4>
