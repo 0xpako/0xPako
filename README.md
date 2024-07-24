@@ -11,12 +11,6 @@
 <a href="https://instagram.com/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/d621b97c60a1d96654bc27f460ea568be847288c/images/Instagram_logo_2016.svg" alt="0xpako" height="35" width="35" /></a>
 </p>
 
-<h4 align="left">💵 Hire me:</h4>
-<p align="left">
-<a href="https://www.behance.net/0xpako" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icbehance.png" alt="behance" height="35" width="35" /></a>
-<a href="https://bitcoin.0xpako.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/icBitcoin.png" alt="crypto" height="35" width="35" /></a>
-</p>
-
 <h4 align="left">💙 Support:</h4>
 <p> <a href="https://bitcoin.0xpako.com/"> <img src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/DonateBet%20(c).png" height="40" width="148" alt="crypto" /></a> <a href="https://github.com/sponsors/0xpako"> <img src="https://raw.githubusercontent.com/0xpako/0xpako/main/images/githubsponsor.svg" height="40" width="160" alt="github-sponsor" /></a> </p>
 
