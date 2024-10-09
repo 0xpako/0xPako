@@ -1,5 +1,5 @@
 # ⭐ Mateusz Paczkowski
-🌐 UX/UI Designer, Graphic Designer, Digital Illustrator
+🌐 Graphic Designer, Digital Illustrator
 
 <h4 align="left">📧 Connect with me:</h4>
 <p align="left">
